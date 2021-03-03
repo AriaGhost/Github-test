@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+#container{
+    width: 50%;
+    border: 2px solid black;
+    margin: auto;
+    padding: 1em;
+}
+#log-in-container > form {
+    width: 100%;
+    padding: 0.5em;
+}
+#log-in-form > div{
+    width: 90%;
+    padding: 0.5em;
+}
